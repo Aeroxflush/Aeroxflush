@@ -19,4 +19,4 @@
 </a>
 
 &nbsp;
-<p align="center">*Di Github Cuman lihat Repo punya orang lain 😁</p>
+<p align="center">*Di Github Cuman lihat ataupun pakai Repo punya orang lain 😁</p>

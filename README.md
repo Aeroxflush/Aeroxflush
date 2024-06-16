@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=30&pause=2000&color=18F718&repeat=false&random=false&width=435&lines=%F0%9F%91%8B+Halo%2C+Aku+Aeroxflush" /> </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=30&pause=2000&color=18F718&repeat=false&width=435&lines=%F0%9F%91%8B+Halo%2C+Aku+Aeroxflush" /> </a>
 
 ### Bahasa yang telah kupelajari:
 <div>

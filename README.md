@@ -1,7 +1,11 @@
-## 👋 Halo , Aku Aeroxflush
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=30&pause=2000&color=18F718&repeat=false&random=false&width=435&lines=%F0%9F%91%8B+Halo%2C+Aku+Aeroxflush" /> </a>
 
 ### Bahasa yang telah kupelajari:
-<img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />  &nbsp; **That's it...**
+<div>
+<img height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" /> &nbsp;
+<img height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" /> &nbsp;
+<img height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" /> &nbsp;
+</div>
 
 &nbsp;
 ### Add as friend/Follow me?

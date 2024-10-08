@@ -11,10 +11,10 @@
 &nbsp;
 ### Add as friend/Follow me?
 <p>
-  <a href="https://www.discordapp.com/users/574176914483445760"><img height="30" width="30" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"></a>
-  <a href="https://steamcommunity.com/id/saucyrendang/"><img height="30" width="30" src="https://static.wikia.nocookie.net/logopedia/images/5/56/Steam_Icon_2014.svg/revision/latest/scale-to-width-down/512?cb=20190826175003"></a>
-  <a href="https://open.spotify.com/user/31rti3haf32ud5p4xiwmmz7wwc3a"><img height="30" width="30" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png"></a>
-  <a href="https://www.reddit.com/user/Aeroxflush"><img height="30" width="30" src="https://www.redditinc.com/assets/images/site/reddit-logo.png"></a>
+  <a href="https://www.discordapp.com/users/574176914483445760" ><img height="30" width="30" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="flushae" ></a>
+  <a href="https://steamcommunity.com/id/saucyrendang/" ><img height="30" width="30" src="https://static.wikia.nocookie.net/logopedia/images/5/56/Steam_Icon_2014.svg/revision/latest/scale-to-width-down/512?cb=20190826175003" ></a>
+  <a href="https://open.spotify.com/user/31rti3haf32ud5p4xiwmmz7wwc3a" ><img height="30" width="30" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png"></a>
+  <a href="https://www.reddit.com/user/Aeroxflush" ><img height="30" width="30" src="https://www.redditinc.com/assets/images/site/reddit-logo.png" ></a>
 </p>
 
 &nbsp;

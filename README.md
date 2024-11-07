@@ -20,7 +20,7 @@
   <a href="https://www.discordapp.com/users/574176914483445760" ><img height="30" width="30" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="flushae" ></a> &nbsp;
   <a href="https://steamcommunity.com/id/saucyrendang/" ><img height="30" width="30" src="https://static.wikia.nocookie.net/logopedia/images/5/56/Steam_Icon_2014.svg/revision/latest/scale-to-width-down/512?cb=20190826175003" ></a> &nbsp;
   <a href="https://open.spotify.com/user/31rti3haf32ud5p4xiwmmz7wwc3a" ><img height="30" width="30" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png"></a> &nbsp;
-  <a href="https://www.reddit.com/user/Aeroxflush" ><img height="30" width="30" src="https://reddit.lingoapp.com/a/Reddit-Logo-Wordmark-OrangeRed-G3rpw2?asset_token=T8hp7M5Yqc1rJo93x3ZvfHBvUtEaYAW8sGB-LeaehNU&v=13" ></a>
+  <a href="https://www.reddit.com/user/Aeroxflush" ><img height="30" width="100" src="https://api.lingoapp.com/v4/assets/33F25062-745B-49E4-9BFD-AE61162A8745/preview?size=1232&asset_token=T8hp7M5Yqc1rJo93x3ZvfHBvUtEaYAW8sGB-LeaehNU&hash=c750fefcb91297c79eb4f4c0ec1639e472c8239e&p=complete" ></a>
 </p>
 
 &nbsp;

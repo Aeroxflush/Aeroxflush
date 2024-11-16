@@ -7,9 +7,10 @@
   <img height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" /> &nbsp;
 </div>
 
-### - Tech stack (yang kupakai baru-baru ini):
+### - Tech Stacks (yang kupakai baru-baru ini):
 <p>
   <img height="64" width="64" src="https://github.com/devicons/devicon/raw/refs/tags/v2.16.0/icons/bootstrap/bootstrap-original.svg" /> &nbsp;
+  <img height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain-wordmark.svg" /> &nbsp;
   <img height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/visualstudio/visualstudio-plain.svg" /> &nbsp;
   <img height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angular/angular-original.svg" />
 </p>
